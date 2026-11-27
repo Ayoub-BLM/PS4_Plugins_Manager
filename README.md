@@ -4,6 +4,21 @@ A homebrew application for the PS4 that manages [GoldHEN](https://github.com/Gol
 
 > **Requirements:** a jailbroken PS4 running GoldHEN. The app is built with the OpenOrbis toolchain and packaged as a PKG/fPKG.
 
+## Download
+
+Get the latest PKG from the [Releases](https://github.com/Ayoub-BLM/PS4_Plugins_Manager/releases) page.
+
+### Install from USB
+
+1. Format a USB drive as exFAT or FAT32 and copy the `.pkg` file to its root folder.
+2. Plug the drive into the console.
+3. Install the PKG with a homebrew PKG installer that can read from USB.
+
+### Requirements
+
+- A jailbroken PS4 running GoldHEN.
+- A homebrew PKG installer on the console.
+
 ## Screenshots
 
 Screenshots were taken while streaming the console with Chiaki.
