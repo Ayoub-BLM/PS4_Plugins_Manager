@@ -1,6 +1,16 @@
 # Plugins Manager
 
-A homebrew application for the PS4 that manages [GoldHEN](https://github.com/GoldHEN/GoldHEN) plugins directly on the console: browse a plugin store, install and update plugins, edit plugin tokens, and repair a broken `plugins.ini`. The interface is drawn with SDL2 and supports English, French, Spanish, German, Arabic, and Portuguese.
+**Manage your [GoldHEN](https://github.com/GoldHEN/GoldHEN) plugins directly from the PS4, with no PC and no FTP needed.**
+
+Plugins Manager is a homebrew app for the PS4 that lets you:
+
+- Browse a plugin store, then install and update plugins from the console itself
+- See which games each plugin is enabled for, and turn plugins on or off per game
+- Edit plugin tokens and settings from the store
+- Repair a broken `plugins.ini`, back up the old one, and restore it when needed
+- Load your game list through Root Access, so it doesn't depend on FTP
+
+The interface is drawn with SDL2 and supports English, French, Spanish, German, Arabic, and Portuguese.
 
 > **Requirements:** a jailbroken PS4 running GoldHEN. The app is built with the OpenOrbis toolchain and packaged as a PKG/fPKG.
 
