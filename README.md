@@ -113,10 +113,16 @@ src/
 
 Created and maintained by **Ayoub** ([@Ayoub-BLM](https://github.com/Ayoub-BLM)).
 
+## AI disclosure
+
+This project was developed with the help of Claude (Anthropic), which was used for programming and for writing parts of this documentation. The author made the design decisions, reviewed and tested the code, and is responsible for the final result.
+
 ## Support
 
 Discord: https://discord.gg/XW24zkCtP9
 
 ## License
 
-<!-- TODO: add the license you use. The archive contains no LICENSE file for the project itself. -->
+This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full text.
+
+Third-party components keep their own licenses: miniz (see `src/third_party/miniz/LICENSE`) and the bundled fonts (see the `-OFL.txt` files in `assets/fonts/`).
